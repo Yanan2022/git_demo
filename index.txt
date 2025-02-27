@@ -1,0 +1,2 @@
+Je suis le fichier d'accueil, 
+Bienvenu au cours de Python !
