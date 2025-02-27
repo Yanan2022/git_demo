@@ -1,0 +1,6 @@
+Bienvenu a gomycode pour le programmation de <label for="inputName">en software developper</label>
+<input type="text" class="form-control is-valid" name="inputName" id="inputName">
+<div class="invalid-feedback">
+    Validation message
+</div>
+<!-- TODO: This is for server side, there is another version for browser defaults -->
